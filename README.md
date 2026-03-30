@@ -30,8 +30,10 @@ PROCEDURE:
 OBSERVATIONS:
 
 REGULATION CHARACTERISTICS:
+![WhatsApp Image 2026-03-30 at 21 03 31](https://github.com/user-attachments/assets/9da133ab-c0bd-4be7-81c9-5126130b43ef)
 
 V-I & REGULATION CHARACTERISTICS:
+![WhatsApp Image 2026-03-30 at 21 03 31 (1)](https://github.com/user-attachments/assets/e1de8642-162f-4dd2-8c34-2b5dd02796c5)
 
 PRECAUTIONS:
 
